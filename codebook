@@ -1,0 +1,10 @@
+Codebook
+
+- This project use 6 group of data: x_train, y_train, x_test, y_test, subject_train, subject_test.
+- Also use features.txt and activity labels.
+
+- We Only  estimated the variables from mean and standard deviation in the tidy set.
+mean(): Mean value
+std(): Standard deviation
+
+
